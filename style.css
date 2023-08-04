@@ -43,6 +43,10 @@ body {
     cursor: pointer;
 }
 
+.block:hover {
+    background-color: rgba(128,128,128,0.4);
+}
+
 #restart:hover,
 #reset-scores:hover {
     background-color: rgba(255,0,0,0.5);
